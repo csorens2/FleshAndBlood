@@ -12,8 +12,8 @@ Tension Rules
         * Spend 2 tension to give target attack "go again"
             * Red Roman Cancel as represented by Snapdragon Scalers
     * As an instant
-        * Turn a non-attack action into an instant
+        * Spend 2 tension to turn a non-attack action into an instant
             * Red Roman Cancel as represented by Storm Striders
     * At instant speed
-        * Prevent the next two damage from target source
+        * Spend 2 tension to prevent the next two damage from target source
             * Faultless Defense as represented by Brush Off
