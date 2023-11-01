@@ -2,10 +2,10 @@
 2. At the beginning of each players turn, that player gains a Tension counter, up to a maximum of 4.
 
 Burst Rules
-	* As a defense reaction, you may spend your burst token to
-		a. Negate an action, then
-		b. Close the current combat chain, then
-		c. Give your opponent 1 action point
+    * As a defense reaction, you may spend your burst token to
+        a. Negate an action, then
+        b. Close the current combat chain, then
+        c. Give your opponent 1 action point
 
 Tension Rules
     * As an attack reaction
@@ -15,5 +15,5 @@ Tension Rules
         * Spend 2 tension to turn a non-attack action into an instant
             * Red Roman Cancel as represented by Storm Striders
     * At instant speed
-        * Spend 2 tension to prevent the next two damage from target source
+        * Spend 2 tension to prevent the next three damage from target source
             * Faultless Defense as represented by Brush Off
